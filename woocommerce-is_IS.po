@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v1.6.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-08-21 15:05-0800\n"
+"PO-Revision-Date: 2012-08-21 15:36-0800\n"
 "Last-Translator: Halldór Örn Guðnason <dojopan@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -46,25 +46,26 @@ msgstr "Afrita yfir í ný drög"
 # @ woocommerce
 #: admin/post-types/product.php:65 admin/woocommerce-admin-taxonomies.php:208
 msgid "Image"
-msgstr ""
+msgstr "Mynd"
 
 # @ woocommerce
 #: admin/post-types/product.php:77
 msgid "Categories"
-msgstr ""
+msgstr "Flokkar"
 
 # @ woocommerce
 #: admin/post-types/product.php:78
 msgid "Tags"
-msgstr ""
+msgstr "Efnisorð"
 
-# @ woocommerce
+# Má bæta
 #: admin/post-types/product.php:79 admin/post-types/product.php:558
 #: admin/post-types/product.php:799
 #: admin/post-types/writepanels/writepanel-product_data.php:964
 #: admin/woocommerce-admin-init.php:293
+#, fuzzy
 msgid "Featured"
-msgstr ""
+msgstr "Áherslupóstur"
 
 # @ woocommerce
 #: admin/post-types/product.php:75 admin/post-types/product.php:494
@@ -75,12 +76,12 @@ msgstr ""
 #: templates/emails/customer-note.php:20
 #: templates/emails/customer-processing-order.php:16
 msgid "Price"
-msgstr ""
+msgstr "Verð"
 
 # @ woocommerce
 #: admin/post-types/product.php:81 admin/post-types/shop_order.php:41
 msgid "Date"
-msgstr ""
+msgstr "Dagsetning"
 
 # @ woocommerce
 #: admin/post-types/product.php:70 admin/post-types/product.php:483
@@ -91,17 +92,18 @@ msgstr ""
 #: admin/woocommerce-admin-reports.php:1527
 #: admin/woocommerce-admin-reports.php:1562
 msgid "SKU"
-msgstr ""
+msgstr "Vörunúmer"
 
 # @ woocommerce
 #: woocommerce.php:718 woocommerce.php:719
+#, fuzzy
 msgid "Parent"
-msgstr ""
+msgstr "Foreldri"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:36
 msgid "Product Type"
-msgstr ""
+msgstr "Vörutegund"
 
 # @ woocommerce
 #: admin/post-types/product.php:185
@@ -115,13 +117,14 @@ msgstr ""
 
 # @ woocommerce
 #: admin/post-types/product.php:195
+#, fuzzy
 msgid "Simple"
-msgstr ""
+msgstr "Einföld"
 
 # @ woocommerce
 #: admin/post-types/product.php:199 admin/post-types/product.php:338
 msgid "Variable"
-msgstr ""
+msgstr "Breytileg"
 
 # @ woocommerce
 # @ default
@@ -138,7 +141,7 @@ msgstr ""
 #: woocommerce.php:720 woocommerce.php:747 woocommerce.php:790
 #: woocommerce.php:836 woocommerce.php:882
 msgid "Edit"
-msgstr ""
+msgstr "Breyta"
 
 # @ woocommerce
 #: admin/post-types/product.php:124
@@ -148,98 +151,100 @@ msgstr ""
 # @ woocommerce
 #: admin/post-types/product.php:124
 msgid "Quick&nbsp;Edit"
-msgstr ""
+msgstr "Flýtibreyta"
 
-# @ woocommerce
+# Tékka á WP fyrir Trash
 #: admin/post-types/product.php:128
+#, fuzzy
 msgid "Restore this item from the Trash"
-msgstr ""
+msgstr "Endurheimta úr Ruslatunnu"
 
 # @ woocommerce
 #: admin/post-types/product.php:128
 msgid "Restore"
-msgstr ""
+msgstr "Endurheimta"
 
 # @ woocommerce
 #: admin/post-types/product.php:130
 msgid "Move this item to the Trash"
-msgstr ""
+msgstr "Færa í ruslatunnu"
 
-# @ woocommerce
+# Tékka á samhengi. Gæti verið "Henda"
 #: admin/post-types/product.php:130
+#, fuzzy
 msgid "Trash"
-msgstr ""
+msgstr "Ruslatunna"
 
 # @ woocommerce
 #: admin/post-types/product.php:132
 msgid "Delete this item permanently"
-msgstr ""
+msgstr "Eyða varanlega"
 
 # @ woocommerce
 #: admin/post-types/product.php:132
 #: admin/post-types/writepanels/writepanel-order_data.php:434
 msgid "Delete Permanently"
-msgstr ""
+msgstr "Eyða varanlega"
 
 # @ woocommerce
 #: admin/post-types/product.php:137
 #, php-format
 msgid "Preview &#8220;%s&#8221;"
-msgstr ""
+msgstr "Forskoða &#8220;%s&#8221;"
 
 # @ woocommerce
 #: admin/post-types/product.php:137
 msgid "Preview"
-msgstr ""
+msgstr "Forskoða"
 
 # @ woocommerce
 #: admin/post-types/product.php:139
 #, php-format
 msgid "View &#8220;%s&#8221;"
-msgstr ""
+msgstr "Skoða &#8220;%s&#8221;"
 
 # @ woocommerce
 #: admin/post-types/product.php:139 admin/post-types/shop_order.php:142
 #: templates/myaccount/my-orders.php:60
 msgid "View"
-msgstr ""
+msgstr "Skoða"
 
 # @ woocommerce
 #: admin/post-types/product.php:222
 msgid "Change"
-msgstr ""
+msgstr "Breyta"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:121
 msgid "Unpublished"
-msgstr ""
+msgstr "Óbirt"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:123
 msgid "Y/m/d g:i:s A"
-msgstr ""
+msgstr "Y/m/d g:i:s A"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:129
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "%s síðan"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:131
 msgid "Y/m/d"
-msgstr ""
+msgstr "Y/m/d"
 
 # @ woocommerce
 #: admin/post-types/product.php:547 admin/post-types/product.php:789
 #: admin/post-types/writepanels/writepanel-product_data.php:949
 msgid "Hidden"
-msgstr ""
+msgstr "Falin"
 
 # @ woocommerce
 #: admin/post-types/product.php:324
 msgid "Show all product types"
-msgstr ""
+msgstr "Sýna allar vörutegundir"
 
 # @ woocommerce
 #: admin/post-types/product.php:332
