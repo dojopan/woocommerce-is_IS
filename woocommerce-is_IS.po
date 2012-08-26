@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v1.6.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-08-21 15:36-0800\n"
+"PO-Revision-Date: 2012-08-26 22:43-0000\n"
 "Last-Translator: Halldór Örn Guðnason <dojopan@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -108,12 +108,12 @@ msgstr "Vörutegund"
 # @ woocommerce
 #: admin/post-types/product.php:185
 msgid "Grouped"
-msgstr ""
+msgstr "Hópuð vara"
 
 # @ woocommerce
 #: admin/post-types/product.php:187
 msgid "External/Affiliate"
-msgstr ""
+msgstr "Utanaðkomandi / Umboðssala"
 
 # @ woocommerce
 #: admin/post-types/product.php:195
@@ -145,8 +145,9 @@ msgstr "Breyta"
 
 # @ woocommerce
 #: admin/post-types/product.php:124
+#, fuzzy
 msgid "Edit this item inline"
-msgstr ""
+msgstr "Breyta þessari vöru inline"
 
 # @ woocommerce
 #: admin/post-types/product.php:124
@@ -155,9 +156,8 @@ msgstr "Flýtibreyta"
 
 # Tékka á WP fyrir Trash
 #: admin/post-types/product.php:128
-#, fuzzy
 msgid "Restore this item from the Trash"
-msgstr "Endurheimta úr Ruslatunnu"
+msgstr "Endurheimta úr Rusli"
 
 # @ woocommerce
 #: admin/post-types/product.php:128
@@ -171,9 +171,8 @@ msgstr "Færa í ruslatunnu"
 
 # Tékka á samhengi. Gæti verið "Henda"
 #: admin/post-types/product.php:130
-#, fuzzy
 msgid "Trash"
-msgstr "Ruslatunna"
+msgstr "Rusl"
 
 # @ woocommerce
 #: admin/post-types/product.php:132
@@ -250,24 +249,24 @@ msgstr "Sýna allar vörutegundir"
 #: admin/post-types/product.php:332
 #: admin/post-types/writepanels/writepanel-product_data.php:32
 msgid "Grouped product"
-msgstr ""
+msgstr "Hópuð vara"
 
 # @ woocommerce
 #: admin/post-types/product.php:334
 #: admin/post-types/writepanels/writepanel-product_data.php:33
 msgid "External/Affiliate product"
-msgstr ""
+msgstr "Utanaðkomandi / umboðssölu vara"
 
 # @ woocommerce
 #: admin/post-types/product.php:336
 #: admin/post-types/writepanels/writepanel-product_data.php:31
 msgid "Simple product"
-msgstr ""
+msgstr "Einföld vara"
 
 # @ woocommerce
 #: admin/post-types/product.php:350
 msgid "Show all sub-types"
-msgstr ""
+msgstr "Sýna allar undirtegundir"
 
 # @ woocommerce
 #: admin/post-types/product.php:193 admin/post-types/product.php:354
@@ -276,7 +275,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:440
 #: admin/post-types/writepanels/writepanel-product_data.php:51
 msgid "Downloadable"
-msgstr ""
+msgstr "Niðurhalanleg"
 
 # @ woocommerce
 #: admin/post-types/product.php:191 admin/post-types/product.php:358
@@ -285,57 +284,57 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:442
 #: admin/post-types/writepanels/writepanel-product_data.php:45
 msgid "Virtual"
-msgstr ""
+msgstr "Sýndarvara"
 
 # @ woocommerce
 #: admin/post-types/product.php:453
 #, php-format
 msgid "[%s with SKU of %s]"
-msgstr ""
+msgstr "[%s með SKU af %s]"
 
 # @ woocommerce
 #: admin/post-types/product.php:459
 #, php-format
 msgid "[%s with ID of %d]"
-msgstr ""
+msgstr "[%s með auðkenni af %d]"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:20
 msgid "Code"
-msgstr ""
+msgstr "Kóði"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:21
 msgid "Coupon type"
-msgstr ""
+msgstr "Afsláttartegund"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:22
 #: admin/post-types/writepanels/writepanel-coupon_data.php:35
 msgid "Coupon amount"
-msgstr ""
+msgstr "Afsláttarupphæð"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:23
 msgid "Product IDs"
-msgstr ""
+msgstr "Auðkenni vöru"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:24
 #: admin/post-types/writepanels/writepanel-coupon_data.php:143
 msgid "Usage limit"
-msgstr ""
+msgstr "Takmörk notkunar"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:25
 msgid "Usage count"
-msgstr ""
+msgstr "Fjöldi notkunartilfella"
 
 # @ woocommerce
 #: admin/post-types/shop_coupon.php:26
 #: admin/post-types/writepanels/writepanel-coupon_data.php:146
 msgid "Expiry date"
-msgstr ""
+msgstr "Fyrningardagsetning"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:34
@@ -343,18 +342,18 @@ msgstr ""
 #: admin/settings/settings-shipping-methods.php:23
 #: templates/myaccount/my-orders.php:30
 msgid "Status"
-msgstr ""
+msgstr "Staða"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:35 templates/myaccount/my-orders.php:27
 #: woocommerce.php:833
 msgid "Order"
-msgstr ""
+msgstr "Röðun"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:36
 msgid "Billing"
-msgstr ""
+msgstr "Greiðsluupplýsingar"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:37
@@ -366,18 +365,18 @@ msgstr ""
 #: admin/woocommerce-admin-settings.php:188 templates/cart/totals.php:37
 #: templates/checkout/review-order.php:41
 msgid "Shipping"
-msgstr ""
+msgstr "Sendingarupplýsingar"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:38 templates/cart/totals.php:198
 #: templates/checkout/review-order.php:201
 msgid "Order Total"
-msgstr ""
+msgstr "Heildarverð pöntunar"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:42
 msgid "Actions"
-msgstr ""
+msgstr "Aðgerðir"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:77
@@ -385,12 +384,13 @@ msgstr ""
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:86
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:135
 msgid "Guest"
-msgstr ""
+msgstr "Gestur"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:80
+#, fuzzy
 msgid "made by"
-msgstr ""
+msgstr "búin til af"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:83 templates/emails/admin-new-order.php:43
@@ -399,7 +399,7 @@ msgstr ""
 #: templates/emails/customer-processing-order.php:43
 #: templates/order/order-details.php:88
 msgid "Email:"
-msgstr ""
+msgstr "Netfang:"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:86 templates/emails/admin-new-order.php:46
@@ -407,76 +407,78 @@ msgstr ""
 #: templates/emails/customer-note.php:50
 #: templates/emails/customer-processing-order.php:46
 msgid "Tel:"
-msgstr ""
+msgstr "Sími:"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:99 admin/post-types/shop_order.php:112
 msgid "Via"
-msgstr ""
+msgstr "Gegnum"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:140
 #: admin/woocommerce-admin-dashboard.php:132
 msgid "Processing"
-msgstr ""
+msgstr "Í vinnslu"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:141
 msgid "Complete"
-msgstr ""
+msgstr "Afgreidd"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:220
 msgid "Show all statuses"
-msgstr ""
+msgstr "Sýna allar stöður"
 
 # @ woocommerce
 #: admin/post-types/shop_order.php:249
 msgid "Show all customers"
-msgstr ""
+msgstr "Sýna alla viðskiptavini"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:32
 msgid "Discount type"
-msgstr ""
+msgstr "Afsláttartegund"
 
 # @ woocommerce
 #: classes/shipping/class-wc-flat-rate.php:392
 #: classes/shipping/class-wc-flat-rate.php:393
 msgid "0.00"
-msgstr ""
+msgstr "0.00"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:35
 msgid "Enter an amount e.g. 2.99"
-msgstr ""
+msgstr "Sláðu inn upphæð t.d. 2.99"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:38
 msgid "Individual use"
-msgstr ""
+msgstr "Einstaklingsnotkun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:38
 msgid ""
 "Check this box if the coupon cannot be used in conjunction with other coupons"
 msgstr ""
+"Hakaðu í þennan reit ef ekki er hægt að nota affsláttarkóðann með öðrum "
+"afslætti"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:41
 msgid "Apply before tax"
-msgstr ""
+msgstr "Gildir fyrir skatt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:41
 msgid ""
 "Check this box if the coupon should be applied before calculating cart tax"
-msgstr ""
+msgstr "Hakaðu í þennan reit ef reikna skal afslátt fyrir skatt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:44
 msgid "Enable free shipping"
-msgstr ""
+msgstr "Virkja ókeypis sendingu"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:44
@@ -485,71 +487,73 @@ msgid ""
 "Check this box if the coupon enables free shipping (see <a href=\"%s\">Free "
 "Shipping</a>)"
 msgstr ""
+"Hakaðu í þennan reit ef afsláttarkóðinn virkjar ókeypis sendingu (sjá <a "
+"href=\"%s\">Ókeypis sending</a>)"
 
 # @ woocommerce
 #: admin/woocommerce-admin-users.php:61 admin/woocommerce-admin-users.php:80
 #: templates/order/order-details.php:106 templates/order/order-details.php:121
 msgid "N/A"
-msgstr ""
+msgstr "Á ekki við"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:55
 #: templates/order/order-details.php:10
 msgid "Order Details"
-msgstr ""
+msgstr "Atriði pöntunar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:57
 msgid "Order status:"
-msgstr ""
+msgstr "Staða pöntunar:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:73
 msgid "Customer:"
-msgstr ""
+msgstr "Viðskiptavinur:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:85
 msgid "Customer Note:"
-msgstr ""
+msgstr "Athugasemdir viðskiptavinar:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:86
 msgid "Customer's notes about the order"
-msgstr ""
+msgstr "Athugasemdir viðskiptavinar um pöntun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:93
 msgid "Billing Details"
-msgstr ""
+msgstr "Upplýsingar greiðanda"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:97
 #: admin/post-types/writepanels/writepanel-order_data.php:180
 #: classes/class-wc-countries.php:923
 msgid "First Name"
-msgstr ""
+msgstr "Fornafn"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:101
 #: admin/post-types/writepanels/writepanel-order_data.php:184
 #: classes/class-wc-countries.php:929
 msgid "Last Name"
-msgstr ""
+msgstr "Eftirnafn"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:105
 #: admin/post-types/writepanels/writepanel-order_data.php:188
 #: admin/woocommerce-admin-users.php:113 admin/woocommerce-admin-users.php:162
 msgid "Company"
-msgstr ""
+msgstr "Fyrirtæki"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:109
 #: admin/post-types/writepanels/writepanel-order_data.php:192
 #: admin/woocommerce-admin-users.php:117 admin/woocommerce-admin-users.php:166
 msgid "Address 1"
-msgstr ""
+msgstr "Heimilisfang 1"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:113
@@ -557,14 +561,14 @@ msgstr ""
 #: admin/woocommerce-admin-users.php:121 admin/woocommerce-admin-users.php:170
 #: classes/class-wc-countries.php:947
 msgid "Address 2"
-msgstr ""
+msgstr "Heimilisfang 2"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:117
 #: admin/post-types/writepanels/writepanel-order_data.php:200
 #: admin/woocommerce-admin-users.php:125 admin/woocommerce-admin-users.php:174
 msgid "City"
-msgstr ""
+msgstr "Borg"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:121
@@ -573,7 +577,7 @@ msgstr ""
 #: classes/class-wc-countries.php:858 classes/class-wc-countries.php:859
 #: templates/cart/shipping-calculator.php:63
 msgid "Postcode"
-msgstr ""
+msgstr "Póstnúmer"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:125
@@ -581,7 +585,7 @@ msgstr ""
 #: admin/woocommerce-admin-users.php:137 admin/woocommerce-admin-users.php:186
 #: classes/class-wc-countries.php:968
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:131
@@ -590,7 +594,7 @@ msgstr ""
 #: classes/class-wc-countries.php:899 classes/class-wc-countries.php:900
 #: classes/class-wc-countries.php:975
 msgid "State/County"
-msgstr ""
+msgstr "Fylki / Land"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:135
@@ -600,50 +604,50 @@ msgstr ""
 #: templates/myaccount/form-login.php:48
 #: templates/single-product-reviews.php:81
 msgid "Email"
-msgstr ""
+msgstr "Netfang"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:138
 #: classes/class-wc-countries.php:1026
 msgid "Phone"
-msgstr ""
+msgstr "Sími"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:145
 #: admin/post-types/writepanels/writepanel-order_data.php:222
 #: classes/class-wc-countries.php:941
 msgid "Address"
-msgstr ""
+msgstr "Heimilisfang"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:145
 msgid "No billing address set."
-msgstr ""
+msgstr "Heimilisfang greiðanda vantar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:155
 msgid "Load customer billing address"
-msgstr ""
+msgstr "Sækja heimilisfang greiðanda"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:176
 msgid "Shipping Details"
-msgstr ""
+msgstr "Atriði sendingar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:222
 msgid "No shipping address set."
-msgstr ""
+msgstr "Heimilisfang viðtakanda vantar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:232
 msgid "Load customer shipping address"
-msgstr ""
+msgstr "Sækja heimilisfang viðtakanda"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:273
 msgid "Item"
-msgstr ""
+msgstr "Atriði"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:278
@@ -651,80 +655,80 @@ msgstr ""
 #: admin/settings/settings-tax-rates.php:29
 #: admin/settings/settings-tax-rates.php:98
 msgid "Tax Class"
-msgstr ""
+msgstr "Skattflokkur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:278
 msgid "Tax class for the line item"
-msgstr ""
+msgstr "Skattflokkur fyrir einstaka færslu pöntunar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:280
 #: templates/checkout/form-pay.php:13 templates/checkout/review-order.php:16
 #: templates/order/order-details.php:15
 msgid "Qty"
-msgstr ""
+msgstr "Magn"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:282
 msgid "Line&nbsp;Subtotal"
-msgstr ""
+msgstr "Færslu&nbsp;heildarverð körfu"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:282
 msgid "Line cost and line tax before pre-tax discounts"
-msgstr ""
+msgstr "Kostnaður og skattur færslu fyrir skattaafslátt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:284
 msgid "Line&nbsp;Total"
-msgstr ""
+msgstr "Færslu&nbsp;Heildarverð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:284
 msgid "Line cost and line tax after pre-tax discounts"
-msgstr ""
+msgstr "Kostnaður og skattur færslu eftir skattaafslátt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:309
 #: woocommerce-ajax.php:707
 msgid "Product ID:"
-msgstr ""
+msgstr "Auðkenni vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:310
 #: woocommerce-ajax.php:708
 msgid "Variation ID:"
-msgstr ""
+msgstr "Auðkenni samsetningar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:311
 #: woocommerce-ajax.php:709
 msgid "Product SKU:"
-msgstr ""
+msgstr "Vörunúmer"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:323
 #: woocommerce-ajax.php:721
 msgid "Delete item"
-msgstr ""
+msgstr "Eyða atriði"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:324
 #: woocommerce-ajax.php:722
 msgid "View product"
-msgstr ""
+msgstr "Skoða vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:334
 #: woocommerce-ajax.php:730
 msgid "Add&nbsp;meta"
-msgstr ""
+msgstr "Bæta&nbsp;meta&nbsp;upplýsingum"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:362
 msgid "Tax class"
-msgstr ""
+msgstr "Skattflokkur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:367
@@ -732,7 +736,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:206
 #: woocommerce-ajax.php:744
 msgid "Standard"
-msgstr ""
+msgstr "Hefðbundinn"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:381
@@ -740,7 +744,7 @@ msgstr ""
 #: classes/shipping/class-wc-flat-rate.php:360 woocommerce-ajax.php:758
 #: woocommerce-ajax.php:764
 msgid "Cost"
-msgstr ""
+msgstr "Kostnaður"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:383
@@ -750,32 +754,32 @@ msgstr ""
 #: templates/cart/totals.php:170 templates/cart/totals.php:180
 #: woocommerce-ajax.php:760 woocommerce-ajax.php:766
 msgid "Tax"
-msgstr ""
+msgstr "Skattur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:404
 msgid "Calc line tax &uarr;"
-msgstr ""
+msgstr "Reikna skattkostnað færslu &uarr;"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:405
 msgid "Calc totals &rarr;"
-msgstr ""
+msgstr "Reikna heildarverð &rarr;"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:420
 msgid "Save Order"
-msgstr ""
+msgstr "Vista pöntun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:420
 msgid "Save/update the order"
-msgstr ""
+msgstr "Vista/uppfæra pöntun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:422
 msgid "Reduce stock"
-msgstr ""
+msgstr "Minnka birgðir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:422
@@ -783,11 +787,13 @@ msgid ""
 "Reduces stock for each item in the order; useful after manually creating an "
 "order or manually marking an order as paid."
 msgstr ""
+"Minnka birgðir fyrir hverja vöru í pöntuninni; nytsamlegt ef pöntun er "
+"útbúin handvirkt eða pöntun er handvirkt merkt sem greidd."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:424
 msgid "Restore stock"
-msgstr ""
+msgstr "Bakfæra birgðir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:424
@@ -795,60 +801,64 @@ msgid ""
 "Restores stock for each item in the order; useful after refunding or "
 "canceling the entire order."
 msgstr ""
+"Bakfærir birgðir fyrir hvert atriði pöntunar; nytsamlegt ef pöntun er "
+"endurgreidd eða hætt er við pöntun í heild sinni."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:426
 msgid "Email invoice"
-msgstr ""
+msgstr "Senda kvittun í tölvupósti"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:426
 msgid ""
 "Email the order to the customer. Unpaid orders will include a payment link."
 msgstr ""
+"Senda pöntun til viðskiptavinar. Ógreiddar pantanir innihalda tengil á "
+"greiðslusíðu."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:436
 msgid "Move to Trash"
-msgstr ""
+msgstr "Flytja í rusl"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:456
 msgid "Discounts"
-msgstr ""
+msgstr "Afslættir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:460
 #: classes/class-wc-order.php:534
 msgid "Cart Discount:"
-msgstr ""
+msgstr "Afsláttur körfu:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:467
 #: classes/class-wc-order.php:602
 msgid "Order Discount:"
-msgstr ""
+msgstr "Afsláttur pöntunar:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:481
 msgid "Cost ex. tax:"
-msgstr ""
+msgstr "Kostnaður án skatts:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:482
 #: classes/class-wc-countries.php:487
 msgid "(ex. tax)"
-msgstr ""
+msgstr "(án skatts)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:487
 msgid "Method:"
-msgstr ""
+msgstr "Aðferð:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:498
 msgid "Tax Rows"
-msgstr ""
+msgstr "Skattraðir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:498
@@ -856,122 +866,124 @@ msgid ""
 "These rows contain taxes for this order. This allows you to display multiple "
 "or compound taxes rather than a single total."
 msgstr ""
+"Þessar raðir innihalda skatta fyrir þessa pöntun. Þetta leyfir þér að sýna "
+"marga eða samsetta skatta frekar en heildarupphæð."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:508
 #: admin/woocommerce-admin-init.php:300
 msgid "Tax Label:"
-msgstr ""
+msgstr "Skattmerking:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:512
 #: admin/woocommerce-admin-init.php:301
 msgid "Compound:"
-msgstr ""
+msgstr "Samsettur:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:516
 #: admin/post-types/writepanels/writepanel-order_data.php:540
 #: admin/woocommerce-admin-init.php:302
 msgid "Cart Tax:"
-msgstr ""
+msgstr "Skattur körfu:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:520
 #: admin/post-types/writepanels/writepanel-order_data.php:547
 #: admin/woocommerce-admin-init.php:303
 msgid "Shipping Tax:"
-msgstr ""
+msgstr "Skattur sendingar:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:532
 msgid "+ Add tax row"
-msgstr ""
+msgstr "+ Bæta við skattaröð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:536
 msgid "Tax Totals"
-msgstr ""
+msgstr "Heildarskattur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:557
 #: admin/woocommerce-admin-reports.php:1803 templates/cart/cart.php:21
 #: templates/myaccount/my-orders.php:29
 msgid "Total"
-msgstr ""
+msgstr "Heildarverð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:561
 #: classes/class-wc-order.php:607
 msgid "Order Total:"
-msgstr ""
+msgstr "Heildarverð pöntunar:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:568
 msgid "Payment Method:"
-msgstr ""
+msgstr "Greiðsluaðferð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:752
 msgid "Manually reducing stock."
-msgstr ""
+msgstr "Handvirkt minnka birgðir."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:766
 #: classes/class-wc-order.php:922
 #, php-format
 msgid "Item #%s stock reduced from %s to %s."
-msgstr ""
+msgstr "Birgðir vöru #%s minnkaðar úr %s í %s."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:774
 #: admin/post-types/writepanels/writepanel-order_data.php:806
 #, php-format
 msgid "Item %s %s not found, skipping."
-msgstr ""
+msgstr "%s %s vöru fundust ekki, sleppi."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:780
 msgid "Manual stock reduction complete."
-msgstr ""
+msgstr "Handvirkri minnkun birgða lokið."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:786
 msgid "Manually restoring stock."
-msgstr ""
+msgstr "Bakfæri birgðir handvirkt."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:800
 #, php-format
 msgid "Item #%s stock increased from %s to %s."
-msgstr ""
+msgstr "Birgðir vöru #%s auknar úr %s í %s."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_data.php:812
 msgid "Manual stock restore complete."
-msgstr ""
+msgstr "Handvirkri bakfærslu birgða lokið."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:37
 #, php-format
 msgid "added %s ago"
-msgstr ""
+msgstr "bætt við fyrir %s síðan"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:37
 #: woocommerce-ajax.php:853
 msgid "Delete note"
-msgstr ""
+msgstr "Eyða athugasemd"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:41
 msgid "There are no notes for this order yet."
-msgstr ""
+msgstr "Það eru engar athugasemdir með þessari pöntun ennþá."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:47
 msgid "Add note"
-msgstr ""
+msgstr "Bæta við athugasemd"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:47
@@ -979,48 +991,50 @@ msgid ""
 "Add a note for your reference, or add a customer note (the user will be "
 "notified)."
 msgstr ""
+"Bæta við athugasemd til viðmiðunar, eða bæta við athugasemd viðskiptavinar "
+"( notandanum verður gert viðvart )"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:53
 msgid "Customer note"
-msgstr ""
+msgstr "Athugasemd viðskiptavinar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:54
 msgid "Private note"
-msgstr ""
+msgstr "Einkaskilaboð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_notes.php:56
 #: admin/post-types/writepanels/writepanel-product_data.php:445
 msgid "Add"
-msgstr ""
+msgstr "Bæta við"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:19
 msgid "Variations for variable products are defined here."
-msgstr ""
+msgstr "Samsetningar fyrir breytilegar vörur eru skilgreindar hér."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:19
 #: woocommerce.php:786
 msgid "Variations"
-msgstr ""
+msgstr "Samsetningar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:69
 msgid "Bulk edit:"
-msgstr ""
+msgstr "Magnbreyta"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:71
 msgid "Prices"
-msgstr ""
+msgstr "Verð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:72
 msgid "Sale prices"
-msgstr ""
+msgstr "Útsöluverð"
 
 # @ woocommerce
 #: admin/post-types/product.php:73
@@ -1028,14 +1042,14 @@ msgstr ""
 #: admin/woocommerce-admin-content.php:56
 #: admin/woocommerce-admin-reports.php:69
 msgid "Stock"
-msgstr ""
+msgstr "Birgðir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:82
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:239
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:438
 msgid "Enabled"
-msgstr ""
+msgstr "Virkt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:117
@@ -1044,20 +1058,20 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:406
 #: admin/woocommerce-admin-init.php:281
 msgid "Remove"
-msgstr ""
+msgstr "Fjarlægja"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:130
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:343
 msgid "Any"
-msgstr ""
+msgstr "Alla"
 
 # @ woocommerce
 #: classes/class-wc-product.php:1091
 #: classes/integrations/google-analytics/class-wc-google-analytics.php:165
 #: templates/single-product/meta.php:11
 msgid "SKU:"
-msgstr ""
+msgstr "Vörunúmer:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:157
@@ -1065,12 +1079,14 @@ msgstr ""
 msgid ""
 "Enter a SKU for this variation or leave blank to use the parent product SKU."
 msgstr ""
+"Sláðu inn vörunúmer fyrir þessa samsetningu eða skildu eftir autt til að "
+"nota vörunúmer vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:167
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:376
 msgid "Stock Qty:"
-msgstr ""
+msgstr "Magn birgða:"
 
 # @ woocommerce
 #: admin/post-types/product.php:514 admin/post-types/product.php:732
@@ -1080,7 +1096,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:143
 #: templates/single-product/product-attributes.php:22
 msgid "Weight"
-msgstr ""
+msgstr "Þyngd"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:178
@@ -1089,31 +1105,33 @@ msgid ""
 "Enter a weight for this variation or leave blank to use the parent product "
 "weight."
 msgstr ""
+"Sláðu inn þyngd fyrir þessa samsetningu eða skildu eftir autt til að nota "
+"þyngd vöru."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:184
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:392
 msgid "Dimensions (L&times;W&times;H)"
-msgstr ""
+msgstr "Ummál (L&times;B&times;H)"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:171
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:380
 #: widgets/widget-price_filter.php:192
 msgid "Price:"
-msgstr ""
+msgstr "Verð:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:173
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:381
 msgid "Sale Price:"
-msgstr ""
+msgstr "Útsöluverð:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:218
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:424
 msgid "File path:"
-msgstr ""
+msgstr "Skráarslóð:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:218
@@ -1122,38 +1140,40 @@ msgid ""
 "Enter a File Path to make this variation a downloadable product, or leave "
 "blank."
 msgstr ""
+"Sláðu inn skráarslóð til að gera þessa samsetningu að niðurhalanlegri vöru, "
+"eða skildu eftir autt."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:218
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:424
 #: admin/post-types/writepanels/writepanel-product_data.php:175
 msgid "File path/URL"
-msgstr ""
+msgstr "Skráarslóð/URL"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:218
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:424
 msgid "&uarr;"
-msgstr ""
+msgstr "&uarr;"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:218
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:424
 msgid "Upload"
-msgstr ""
+msgstr "Upphala"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:223
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:427
 msgid "Download Limit:"
-msgstr ""
+msgstr "Takmörk niðurhals:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:223
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:427
 #: admin/post-types/writepanels/writepanel-product_data.php:180
 msgid "Leave blank for unlimited re-downloads."
-msgstr ""
+msgstr "Skildu eftir autt fyrir ótakmarkað endurniðurhal"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-order_downloads.php:48
@@ -1162,23 +1182,23 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:427
 #: admin/post-types/writepanels/writepanel-product_data.php:180
 msgid "Unlimited"
-msgstr ""
+msgstr "Ótakmarkað"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:271
 msgid "No default"
-msgstr ""
+msgstr "Engin sjálfgefin gildi"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:255
 #: woocommerce.php:788
 msgid "Add Variation"
-msgstr ""
+msgstr "Bæta við samsetningu"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:257
 msgid "Link all variations"
-msgstr ""
+msgstr "Tengja alla mögulegar samsetningar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:308
@@ -1186,6 +1206,8 @@ msgid ""
 "You must add some attributes via the \"Product Data\" panel and save before "
 "adding a new variation."
 msgstr ""
+"Þú þarft að bæta við eiginleikum gegnum \"Vöruupplýsingar\" gluggann og "
+"vista áður en hægt er að bæta við nýrri samsetningu."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:468
@@ -1194,92 +1216,97 @@ msgid ""
 "variation for each and every possible combination of variation attributes "
 "(max 50 per run)."
 msgstr ""
+"Ertu viss um að þú viljiðr tengja allar mögulegar samsetningar. Þetta mun "
+"útbúa nýja samsetningu fyrir allar mögulegar samsetningar eiginleika "
+"vörunnar (hámark 50 hverja aðgerð)."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:489
 msgid "variation added"
-msgstr ""
+msgstr "samsetningu bætt við"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:491
 msgid "variations added"
-msgstr ""
+msgstr "samsetningum bætt við"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:505
 msgid "Are you sure you want to remove this variation?"
-msgstr ""
+msgstr "Ertu viss um að þú viljir eyða þessari samsetningu?"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:540
 msgid "Are you sure you want to delete all variations? This cannot be undone."
 msgstr ""
+"Ertu viss um að þú viljir eyða öllum samsetningum? Þessi aðgerð er ekki "
+"afturkræf."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:543
 msgid "Last warning, are you sure?"
-msgstr ""
+msgstr "Síðasta viðvörun. Ertu viss?"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:715
 msgid "Variable product"
-msgstr ""
+msgstr "Breytileg vara"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:68
 #: admin/woocommerce-admin-content.php:38
 #: admin/woocommerce-admin-settings.php:183
 msgid "General"
-msgstr ""
+msgstr "Almenn"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:72
 #: admin/woocommerce-admin-content.php:41
 #: admin/woocommerce-admin-settings.php:186
 msgid "Inventory"
-msgstr ""
+msgstr "Birgðir"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:78
 #: admin/woocommerce-admin-attributes.php:244
 #: admin/woocommerce-admin-init.php:30
 msgid "Attributes"
-msgstr ""
+msgstr "Eiginleikar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:552
 msgid "Grouping"
-msgstr ""
+msgstr "Hópun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:103
 msgid "Product URL"
-msgstr ""
+msgstr "Slóð vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:103
 msgid "Enter the external URL to the product."
-msgstr ""
+msgstr "Sláðu inn utanaðkomandi slóð vörunnar."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:113
 msgid "Regular Price"
-msgstr ""
+msgstr "Venjulegt verð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:116
 msgid "Sale Price"
-msgstr ""
+msgstr "Útsöluverð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:116
 msgid "Schedule"
-msgstr ""
+msgstr "Áætlun"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:119
 msgid "Sale Price Dates"
-msgstr ""
+msgstr "Dagsetningar útsöluverðs"
 
 # @ woocommerce
 # @ default
@@ -1287,20 +1314,20 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:989
 #: templates/myaccount/my-orders.php:51
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:151
 #: templates/single-product/product-attributes.php:31
 msgid "Dimensions"
-msgstr ""
+msgstr "Stærðir"
 
 # @ woocommerce
 #: admin/post-types/product.php:527 admin/post-types/product.php:772
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:75
 #: admin/post-types/writepanels/writepanel-product_data.php:153
 msgid "Length"
-msgstr ""
+msgstr "Lengd"
 
 # @ woocommerce
 #: admin/post-types/product.php:528 admin/post-types/product.php:773
@@ -1308,7 +1335,7 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:154
 #: admin/woocommerce-admin-settings.php:492
 msgid "Width"
-msgstr ""
+msgstr "Breidd"
 
 # @ woocommerce
 #: admin/post-types/product.php:529 admin/post-types/product.php:774
@@ -1316,17 +1343,17 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:155
 #: admin/woocommerce-admin-settings.php:494
 msgid "Height"
-msgstr ""
+msgstr "Hæð"
 
 # @ woocommerce
 #: admin/post-types/product.php:539 admin/post-types/product.php:780
 msgid "Visibility"
-msgstr ""
+msgstr "Sýnileiki"
 
 # @ woocommerce
 #: admin/post-types/product.php:544 admin/post-types/product.php:786
 msgid "Catalog &amp; search"
-msgstr ""
+msgstr "Vörusýn &amp; leit"
 
 # @ woocommerce
 #: admin/post-types/product.php:545 admin/post-types/product.php:787
@@ -1334,7 +1361,7 @@ msgstr ""
 #: admin/woocommerce-admin-content.php:40
 #: admin/woocommerce-admin-settings.php:184
 msgid "Catalog"
-msgstr ""
+msgstr "Vörusýn"
 
 # @ woocommerce
 # @ default
@@ -1342,41 +1369,41 @@ msgstr ""
 #: admin/post-types/writepanels/writepanel-product_data.php:948
 #: woocommerce-template.php:843 woocommerce.php:716
 msgid "Search"
-msgstr ""
+msgstr "Leit"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:173
 msgid "File path"
-msgstr ""
+msgstr "Skráarslóð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:176
 msgid "Upload a file"
-msgstr ""
+msgstr "Hlaða upp skrá"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:180
 msgid "Download Limit"
-msgstr ""
+msgstr "Takmörk niðurhals"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:198
 #: classes/shipping/class-wc-flat-rate.php:109
 #: classes/shipping/class-wc-international-delivery.php:80
 msgid "Tax Status"
-msgstr ""
+msgstr "Staða skatts"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:199
 #: classes/shipping/class-wc-flat-rate.php:114
 #: classes/shipping/class-wc-international-delivery.php:85
 msgid "Taxable"
-msgstr ""
+msgstr "Skattlögð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:200
 msgid "Shipping only"
-msgstr ""
+msgstr "Eingöngu send"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:201
@@ -1385,12 +1412,12 @@ msgstr ""
 #: classes/shipping/class-wc-flat-rate.php:115
 #: classes/shipping/class-wc-international-delivery.php:86
 msgid "None"
-msgstr ""
+msgstr "Engin"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:240
 msgid "Stock status"
-msgstr ""
+msgstr "Staða birgða"
 
 # @ woocommerce
 #: admin/post-types/product.php:230 admin/post-types/product.php:567
@@ -1399,7 +1426,7 @@ msgstr ""
 #: classes/class-wc-product.php:455 classes/class-wc-product.php:460
 #: classes/class-wc-product.php:480
 msgid "In stock"
-msgstr ""
+msgstr "Til á lager"
 
 # @ woocommerce
 #: admin/post-types/product.php:232 admin/post-types/product.php:568
@@ -1408,73 +1435,74 @@ msgstr ""
 #: admin/woocommerce-admin-reports.php:1547 classes/class-wc-product.php:444
 #: classes/class-wc-product.php:483 classes/class-wc-product.php:493
 msgid "Out of stock"
-msgstr ""
+msgstr "Uppseld"
 
 # @ woocommerce
 #: admin/post-types/product.php:583 admin/post-types/product.php:835
 #: admin/post-types/writepanels/writepanel-product_data.php:224
 msgid "Manage stock?"
-msgstr ""
+msgstr "Breyta birgðum?"
 
 # @ woocommerce
 #: admin/post-types/product.php:587 admin/post-types/product.php:854
 #: admin/post-types/product.php:870
 #: admin/post-types/writepanels/writepanel-product_data.php:231
 msgid "Stock Qty"
-msgstr ""
+msgstr "Magn birgða"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:250
+#, fuzzy
 msgid "Allow Backorders?"
-msgstr ""
+msgstr "Leyfa framvirkar pantanir?"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:251
 msgid "Do not allow"
-msgstr ""
+msgstr "Ekki leyfa"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:252
 msgid "Allow, but notify customer"
-msgstr ""
+msgstr "Leyfa en senda tilkynningu til viðskiptavinar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:253
 msgid "Allow"
-msgstr ""
+msgstr "Leyfa"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:342
 #: admin/post-types/writepanels/writepanel-product_data.php:420
 #: admin/woocommerce-admin-init.php:283
 msgid "Value(s)"
-msgstr ""
+msgstr "Gildi"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:344
 msgid "Select terms"
-msgstr ""
+msgstr "Velja efnisorð"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:372
 msgid "Pipe separate terms"
-msgstr ""
+msgstr "Aðskilja efnisorð með píputákni"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:447
 msgid "Custom product attribute"
-msgstr ""
+msgstr "Sérsniðinn eiginleiki vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-coupon_data.php:55
 #: woocommerce.php:742
 msgid "Products"
-msgstr ""
+msgstr "Vörur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:464
 msgid "Up-Sells"
-msgstr ""
+msgstr "Söluátaksvörur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:481
@@ -1483,11 +1511,13 @@ msgid ""
 "product, for example, products that are more profitable or better quality or "
 "more expensive."
 msgstr ""
+"Söluátaksvörur eru vörur sem þú mælir með í stað þeirri vöru sem verið er að "
+"skoða. T.d. vörur sem eru gróðavænlegri, í betri gæðum eða dýrari."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:483
 msgid "Cross-Sells"
-msgstr ""
+msgstr "Kross-sölu vörur"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:500
@@ -1495,16 +1525,18 @@ msgid ""
 "Cross-sells are products which you promote in the cart, based on the current "
 "product."
 msgstr ""
+"Kross-söluvörur eru vörur sem þú bendir á í vörunni byggt á þegar völdum "
+"vörum."
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:528
 msgid "Choose a grouped product&hellip;"
-msgstr ""
+msgstr "Veldu hópaða vöru&hellip:"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:638
 msgid "Product SKU must be unique."
-msgstr ""
+msgstr "Vörunúmer verður að vera einstakt"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:243
@@ -1512,6 +1544,8 @@ msgstr ""
 msgid ""
 "Enable this option if a product is not shipped or there is no shipping cost"
 msgstr ""
+"Virkjaðu þennan möguleika ef vara er ekki send eða það er enginn "
+"sendingarkostnaður"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanel-product-type-variable.php:241
@@ -1520,18 +1554,20 @@ msgid ""
 "Enable this option if access is given to a downloadable file upon purchase "
 "of a product"
 msgstr ""
+"Virkjaðu þennan valmöguleika ef aðgangur af niðurhalanlegri skrá er gefinn "
+"við kaup á vörunni."
 
 # @ woocommerce
 #: admin/post-types/product.php:478 admin/post-types/product.php:683
 #: admin/post-types/writepanels/writepanels-init.php:29
 #: admin/settings/settings-init.php:594
 msgid "Product Data"
-msgstr ""
+msgstr "Upplýsingar vöru"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanels-init.php:49
 msgid "Order Data"
-msgstr ""
+msgstr "Upplýsingar pöntunar"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanels-init.php:50
@@ -1539,6 +1575,8 @@ msgid ""
 "Order Items <small>&ndash; Note: if you edit quantities or remove items from "
 "the order you will need to manually change the item's stock levels.</small>"
 msgstr ""
+"Vörur pöntunar <small>&ndash; Ath: ef þú breytir magni eða fjarlægjir vörur "
+"úr pöntun muntu þurfa að breyta birgðum vöru handvirkt.</small>"
 
 # @ woocommerce
 #: admin/post-types/writepanels/writepanels-init.php:51
